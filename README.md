@@ -11,10 +11,10 @@ This repository contains all of the notes taken by [Omid](https://github.com/Omi
   * [Day 3](/Week_1/Day_3/Objects_in_JS_Notes.md)
   * [Day 4](/Week_1/Day_4/Callback_Functions_Notes.md)
   * Day 5
-* Week 2
-  * Day 1
-  * Day 2
-  * Day 3
-  * Day 4
+* [Week 2](/Week_2/)
+  * [Day 1](/Week_2/Day_1/TDD_Notes.md)
+  * [Day 2](/Week_2/)
+  * [Day 3](/Week_2/)
+  * [Day 4](/Week_2/)
   * Day 5
 * Week 3
